@@ -2,7 +2,7 @@
 
   <ul>
   <li>🎁  <a href="https://saweria.co/syahrils">Goceng </a></li>
-  <li>🔗  <a href="https://syahrilz.github.io/">Website</a></li>
+  <li>🔗  <a href="https://syahril.cf">Website</a></li>
 </ul>
 <br>
 
